@@ -1,7 +1,7 @@
 # lab02-debugging
 
 # Collaborators 
-Jimin Choi (No collaborators, I was out sick during the demo). 
+Jimin Choi (No collaborators, I was out sick during the demo). <br/>
 **Shadertoy Link:** https://www.shadertoy.com/view/wfjBRm
 
 # My Process
