@@ -1,5 +1,10 @@
 # lab02-debugging
 
+# My Process
+1. First bug was the vec2 bug on line 97, which was more obvious than the other bugs. There is no "vec" type.
+2. Passing in the wrong vec2 for the raycast function
+3. Specular reflection passing in eye instead of dir
+
 # Setup 
 
 Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shadertoy, or create a new shadertoy and copy the code from the [Debugging Puzzle](https://www.shadertoy.com/view/flGfRc).
